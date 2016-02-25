@@ -3,6 +3,4 @@ Git is free software.
 test1
 test2test
 test3
-test branch
-test branch2
-test branch4
+test bran1
